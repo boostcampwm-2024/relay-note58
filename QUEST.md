@@ -308,4 +308,11 @@
 - **S003 강창우**
   - [ ] 하루에 한번씩 방 가볍게 청소하는 시간을 가지고 체크하기 : 깨끗한 환경에서 더 집중이 잘 될 것 같아서 해보고 싶습니다.
 - **K047 정혜승**
-  - [ ] 공식 Docs 활용해서 공부해보기 : 블로그에서 정보를 찾다보면 용어가 다르거나 조금씩 다른 부분이 있는데 공식 문서에서 찾으면 좀 더 믿을 수 있는 정보를 얻을 수 있어서 선택했습니다.
+  - [x] 공식 Docs 활용해서 공부해보기 : 블로그에서 정보를 찾다보면 용어가 다르거나 조금씩 다른 부분이 있는데 공식 문서에서 찾으면 좀 더 믿을 수 있는 정보를 얻을 수 있어서 선택했습니다.
+    - HTTP 응답 메시지 상태코드: IP 주소, 도메인 등을 관리하는 IANA의 사이트에 들어가서 확인해보았습니다.
+      - https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
+    
+
+    - ServerSocket과 Socket 사용 시 자바 공식 Docs를 참조했습니다.
+      - https://docs.oracle.com/javase/8/docs/api/java/net/ServerSocket.html
+      - https://docs.oracle.com/javase%2F8%2Fdocs%2Fapi%2F%2F/java/net/Socket.html
